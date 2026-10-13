@@ -1,0 +1,14 @@
+{
+  "name": "hw7_api_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run --record --key c59cf13b-98a7-42ed-8551-fd702b1eae09"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^16.1.1"
+  }
+}
